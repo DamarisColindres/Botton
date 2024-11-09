@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172291972665",
+    "project_id": "comdcauth-3a0ab",
+    "storage_bucket": "comdcauth-3a0ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172291972665:android:bd86e0e82f70a383eff7e8",
+        "android_client_info": {
+          "package_name": "com.dc.botton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdS6WnGvWbsx83NoqRw3lVY0vgnI8cgQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
